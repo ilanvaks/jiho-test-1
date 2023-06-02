@@ -1,4 +1,4 @@
-The starter structure for creating a React Boostrap project with some SASS
+The starter structure for creating a React Boostrap project with some SASS, added a new way to show modal
 
 
 1) clean up 
